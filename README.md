@@ -1,14 +1,14 @@
 # Aurora Launcher
 
-Лаунчер для Workers & Resources: Soviet Republic со встроенным изменением угла обзора (FOV).
+A launcher for Workers & Resources: Soviet Republic with built-in field of view (FOV) controls.
 
-Распакуйте архив в папку игры и запустите `Aurora/Aurora Launcher.exe`. Если лаунчер расположен в другом месте, выберите папку игры в настройках. Кнопка «Заменить стандартный лаунчер» позволяет открывать Aurora через Steam и сохраняет оригинальный лаунчер игры.
+Extract the archive into the game folder and run `Aurora/Aurora Launcher.exe`. If you keep Aurora elsewhere, select the game folder in Settings. Use **Replace standard launcher** to launch Aurora through Steam. The original game launcher is preserved.
 
-Editor и PBR устанавливаются отдельно через Steam Workshop. Подпишитесь на нужный мод, дождитесь загрузки Steam и нажмите проверку обновлений в Aurora:
+Editor and PBR are installed separately through Steam Workshop. Subscribe to the module, wait for Steam to finish downloading it, then check for updates in Aurora:
 
-- [Aurora Editor](https://steamcommunity.com/sharedfiles/filedetails/?id=3822550289) — материалы PBR и стекло, работа с NMF, OBJ и FBX.
-- [PBR](https://steamcommunity.com/sharedfiles/filedetails/?id=3826467416) — графический модуль.
+- [Aurora Editor](https://steamcommunity.com/sharedfiles/filedetails/?id=3822550289) — PBR materials, glass, and NMF, OBJ and FBX support.
+- [PBR](https://steamcommunity.com/sharedfiles/filedetails/?id=3826467416) — graphics module.
 
-Бета-функции по умолчанию выключены.
+Beta features are disabled by default.
 
-[Скачать Aurora Launcher](https://github.com/Av1ra/Aurora-Launcher/releases/latest)
+[Download Aurora Launcher](https://github.com/Av1ra/Aurora-Launcher/releases/latest)
